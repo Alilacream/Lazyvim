@@ -1,0 +1,2 @@
+-- LSP Server to use for PHP.
+-- Set to "intelephense" to use intelephense instead of phpactor.
